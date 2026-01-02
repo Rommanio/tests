@@ -1,50 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Белорусские",Беларусь 24
-http://tv.ttk.mx:9090
-#EXTINF:-1 tvg-logo="" group-title="Белорусские",БелРос
-http://tv.ttk.mx:9139
-#EXTINF:-1 group-title="Развлечение",Бобёр
-http://tv.ttk.mx:9077
-#EXTINF:-1 group-title="Развлечение",Вопросы и ответы
-http://tv.ttk.mx:9038
-#EXTINF:-1 group-title="Музыка",Восток ТВ
-http://tv.ttk.mx:9064
-#EXTINF:-1 group-title="Детям",Детский мир
-http://tv.ttk.mx:9063
-#EXTINF:-1 group-title="Развлечение",Доктор
-http://tv.ttk.mx:9058
-#EXTINF:-1 group-title="Развлечение",Домашние животные
-http://tv.ttk.mx:9035
-#EXTINF:-1 group-title="Развлечение",Драйв
-http://tv.ttk.mx:9039
-#EXTINF:-1 group-title="Развлечение",Дума ТВ
-http://tv.ttk.mx:9190
-#EXTINF:-1 group-title="Развлечение",Живая Природа HD
-http://tv.ttk.mx:9066
-#EXTINF:-1 group-title="Развлечение",Загородная жизнь
-http://tv.ttk.mx:9157
-#EXTINF:-1 group-title="Общие",Звезда
-http://tv.ttk.mx:9016
-#EXTINF:-1 group-title="Общие",Звезда плюс
-http://tv.ttk.mx:9192
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Развлечение",Здоровое ТВ
-http://tv.ttk.mx:9036
-#EXTINF:-1 group-title="Развлечение",Зоопарк
-http://tv.ttk.mx:9029
-#EXTINF:-1 group-title="Кино",Иллюзион+
-http://tv.ttk.mx:9028
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/istoria.png" group-title="РАЗВЛЕЧЕНИЕ",История
-http://tv.ttk.mx:9048
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлечение",Калейдоскоп ТВ
-http://tv.ttk.mx:9076
-#EXTINF:-1 group-title="Детям",Карусель
-http://tv.ttk.mx:9007
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://tv.ttk.mx:9046
-#EXTINF:-1 group-title="Кино",Кино ТВ HD
-http://tv.ttk.mx:9113
-#EXTINF:-1 group-title="Кино",Кинопоказ
-http://tv.ttk.mx:9150
+#EXTINF:-1 group-title="Кино",TV1 (KG)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
 http://tv.ttk.mx:9162
 #EXTINF:-1 group-title="Кино",Киносвидание
@@ -55,202 +11,16 @@ http://tv.ttk.mx:9161
 http://tv.ttk.mx:9193
 #EXTINF:-1 group-title="Кино",Кинохит
 http://tv.ttk.mx:9163
-#EXTINF:-1 group-title="Кино",Комедия
-http://tv.ttk.mx:9050
-#EXTINF:-1 group-title="Развлечение",Москва Доверие
-http://tv.ttk.mx:9091
-#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Развлечение",Моя планета
-http://tv.ttk.mx:9040
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Развлечение",Моя планета HD
-http://tv.ttk.mx:9087
 #EXTINF:-1 group-title="Кино",Мужское Кино HD
 http://tv.ttk.mx:9165
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детям",Мульт HD
-http://tv.ttk.mx:9086
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="Детям",Мультимузыка
-http://tv.ttk.mx:9045
-#EXTINF:-1 group-title="Кино",НСТ
-http://tv.ttk.mx:9057
-#EXTINF:-1 group-title="Общие",НТВ Хит
-http://tv.ttk.mx:9173
-#EXTINF:-1 group-title="Хобби",Охота и рыбалка
-http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="Общие",Первый Канал
-http://tv.ttk.mx:9000
-#EXTINF:-1 group-title="Общие",Первый HD
-http://tv.ttk.mx:9093
-#EXTINF:-1 group-title="Кино",Победа
-http://tv.ttk.mx:9149
-#EXTINF:-1 group-title="Развлечение",Психология 21
-http://tv.ttk.mx:9033
-#EXTINF:-1 group-title="Общие",Пятница
-http://tv.ttk.mx:9015
-#EXTINF:-1 group-title="Развлечение",Ретро
-http://tv.ttk.mx:9032
-#EXTINF:-1 group-title="Кино",Русский бестселлер
-http://tv.ttk.mx:9043
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://tv.ttk.mx:9027
-#EXTINF:-1 group-title="Кино",Русский роман HD
-http://tv.ttk.mx:9085
-#EXTINF:-1 group-title="Развлечение",SD REX
-http://tv.ttk.mx:9095
-#EXTINF:-1 group-title="Развлечение",Сарафан
-http://tv.ttk.mx:9044
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Общие",СТС Love
-http://tv.ttk.mx:9104
-#EXTINF:-1 group-title="Детям",Супергерои
-http://tv.ttk.mx:9194
-#EXTINF:-1 group-title="Общие",ТВ3
-http://tv.ttk.mx:9014
-#EXTINF:-1 group-title="Общие",ТВЦ
-http://tv.ttk.mx:9009
-#EXTINF:-1 group-title="Развлечение",Техно 24
-http://tv.ttk.mx:9056
-#EXTINF:-1 group-title="Общие",ТНТ
-http://tv.ttk.mx:9018
-#EXTINF:-1 group-title="Музыка",ТНТ Music
-http://tv.ttk.mx:9023
-#EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ",ТНТ4
-http://tv.ttk.mx:9098
-#EXTINF:-1 group-title="Развлечение",Точка отрыва
-http://tv.ttk.mx:9151
-#EXTINF:-1 group-title="Детям",Уникум
-http://tv.ttk.mx:9026
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Развлечение",Усадьба
-http://tv.ttk.mx:9037
-#EXTINF:-1 group-title="Общие",Че
-http://tv.ttk.mx:9141
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://tv.ttk.mx:9062
-#EXTINF:-1 group-title="Кино",Amedia 1
-http://tv.ttk.mx:9155
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детям",Ani
-http://tv.ttk.mx:9049
 #EXTINF:-1 group-title="Кино",Cinema
 http://tv.ttk.mx:9053
-#EXTINF:-1 group-title="Развлечение",Da Vinci
-http://tv.ttk.mx:9188
-#EXTINF:-1 group-title="Развлечение",Galaxy
-http://tv.ttk.mx:9071
-#EXTINF:-1 group-title="Музыка",O2TV
-http://tv.ttk.mx:9059
-#EXTINF:-1 group-title="Музыка",RU.TV
-http://tv.ttk.mx:9089
 #EXTINF:-1 group-title="Кино",Timeless Dizi Channel
 http://tv.ttk.mx:9189
-#EXTINF:-1 group-title="Кино",TV XXI
-http://tv.ttk.mx:9067
-#EXTINF:-1 group-title="Кино",TV1000
-http://tv.ttk.mx:9181
-#EXTINF:-1 group-title="Кино",TV1000 русское кино
-http://tv.ttk.mx:9183
-#EXTINF:-1 group-title="Кино",TV1000 action
-http://tv.ttk.mx:9182
-#EXTINF:-1 group-title="Развлечение",Viasat Explore
-http://tv.ttk.mx:9184
-#EXTINF:-1 group-title="Развлечение",Viasat Nature
-http://tv.ttk.mx:9186
-#EXTINF:-1 group-title="Развлечение",Авто 24
-http://tv.ttk.mx:9031
-#EXTINF:-1 group-title="Детям",Детский мир
-http://tv.ttk.mx:9063
-#EXTINF:-1 group-title="Развлечение",Доктор
-http://tv.ttk.mx:9058
-#EXTINF:-1 group-title="Развлечение",Домашние животные
-http://tv.ttk.mx:9035
-#EXTINF:-1 group-title="Общие",Домашний
-http://tv.ttk.mx:9013
-#EXTINF:-1 group-title="Развлечение",Драйв
-http://tv.ttk.mx:9039
-#EXTINF:-1 group-title="Кино",Еврокино
-http://tv.ttk.mx:9030
-#EXTINF:-1 group-title="Развлечение",Загородная жизнь
-http://tv.ttk.mx:9157
-#EXTINF:-1 group-title="Развлечение",Живая Природа HD
-http://tv.ttk.mx:9066
-#EXTINF:-1 group-title="Общие",Звезда
-http://tv.ttk.mx:9016
-#EXTINF:-1 group-title="Общие",Звезда Плюс
-http://tv.ttk.mx:9192
-#EXTINF:-1 group-title="Развлечение",Здоровое ТВ
-http://tv.ttk.mx:9036
-#EXTINF:-1 group-title="Развлечение",Зоопарк
-http://tv.ttk.mx:9029
-#EXTINF:-1 group-title="Кино",Иллюзион+
-http://tv.ttk.mx:9028
-#EXTINF:-1 group-title="Развлечение",История
-http://tv.ttk.mx:9048
-#EXTINF:-1 group-title="Детям",Карусель
-http://tv.ttk.mx:9007
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://tv.ttk.mx:9046
-#EXTINF:-1 group-title="Кино",Кино ТВ HD
-http://tv.ttk.mx:9113
-#EXTINF:-1 group-title="Кино",Кинопоказ
-http://tv.ttk.mx:9150
-#EXTINF:-1 group-title="Кино",Комедия
-http://tv.ttk.mx:9050
-#EXTINF:-1 group-title="Детям",Мама
-http://tv.ttk.mx:9055
-#EXTINF:-1 group-title="Общие",МИР
-http://tv.ttk.mx:9017
-#EXTINF:-1 group-title="Общие",МИР HD
-http://tv.ttk.mx:9140
-#EXTINF:-1 group-title="Общие",МИР24
-http://tv.ttk.mx:9025
-#EXTINF:-1 group-title="Развлечение",Москва 24
-http://tv.ttk.mx:9097
-#EXTINF:-1 group-title="Развлечение",Москва Доверие
-http://tv.ttk.mx:9091
-#EXTINF:-1 group-title="Кино",Мосфильм
-http://tv.ttk.mx:9169
-#EXTINF:-1 group-title="Развлечение",Моя Планета
-http://tv.ttk.mx:9040
-#EXTINF:-1 group-title="Развлечение",Моя Планета HD
-http://tv.ttk.mx:9087
-#EXTINF:-1 group-title="Детям",Мульт
-http://tv.ttk.mx:9054
-#EXTINF:-1 group-title="Детям",Мульт и музыка
-http://tv.ttk.mx:9045
-#EXTINF:-1 group-title="Детям",Мульт HD
-http://tv.ttk.mx:9086
-#EXTINF:-1 group-title="Развлечение",Наука
-http://tv.ttk.mx:9041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ностальгия" tvg-logo="" group-title="РАЗНОЕ",Ностальгия
-http://tv.ttk.mx:9195
 #EXTINF:-1 group-title="Кино",НСТ
 http://tv.ttk.mx:9057
-#EXTINF:-1 group-title="Общие",НТВ
-http://tv.ttk.mx:9003
-#EXTINF:-1 group-title="Общие",НТВ HD
-http://tv.ttk.mx:9127
-#EXTINF:-1 group-title="Хобби",Охота и Рыбалка
-http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="Общие",Первый канал
-http://tv.ttk.mx:9000
-#EXTINF:-1 group-title="Общие",Первый канал HD
-http://tv.ttk.mx:9093
 #EXTINF:-1 group-title="Кино",Победа
 http://tv.ttk.mx:9149
-#EXTINF:-1 group-title="Развлечение",Психология
-http://tv.ttk.mx:9033
-#EXTINF:-1 group-title="Общие",Пятница!
-http://tv.ttk.mx:9015
-#EXTINF:-1 group-title="Новости",РБК
-http://tv.ttk.mx:9096
-#EXTINF:-1 group-title="Общие",Рен ТВ
-http://tv.ttk.mx:9010
-#EXTINF:-1 group-title="Развлечение",Ретро
-http://tv.ttk.mx:9032
-#EXTINF:-1 group-title="Общие",Россия 1
-http://tv.ttk.mx:9001
-#EXTINF:-1 group-title="Общие",Россия 1 HD
-http://tv.ttk.mx:9075
-#EXTINF:-1 group-title="Общие",Россия К
-http://tv.ttk.mx:9005
 #EXTINF:-1 group-title="Кино",Русский Бестселлер
 http://tv.ttk.mx:9043
 #EXTINF:-1 group-title="Кино",Русский Детектив
@@ -259,69 +29,87 @@ http://tv.ttk.mx:9051
 http://tv.ttk.mx:9027
 #EXTINF:-1 group-title="Кино",Русский Роман HD
 http://tv.ttk.mx:9085
-#EXTINF:-1 group-title="Развлечение",Сарафан
-http://tv.ttk.mx:9044
-#EXTINF:-1 group-title="Общие",СТС
-http://tv.ttk.mx:9012
-#EXTINF:-1 group-title="Общие",СТС Love
-http://tv.ttk.mx:9104
-#EXTINF:-1 group-title="Общие",Суббота!
-http://tv.ttk.mx:9105
-#EXTINF:-1 group-title="Детям",Супергерои
-http://tv.ttk.mx:9194
-#EXTINF:-1 group-title="Развлечение",Т24
-http://tv.ttk.mx:9056
+#EXTINF:-1 group-title="Кино",Еврокино
+http://tv.ttk.mx:9030
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://tv.ttk.mx:9028
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://tv.ttk.mx:9046
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://tv.ttk.mx:9113
+#EXTINF:-1 group-title="Кино",Кинопоказ
+http://tv.ttk.mx:9150
+#EXTINF:-1 group-title="Кино",Комедия
+http://tv.ttk.mx:9050
+#EXTINF:-1 group-title="Кино",Мосфильм
+http://tv.ttk.mx:9169
 #EXTINF:-1 group-title="Кино",ТВ 21
 http://tv.ttk.mx:9067
-#EXTINF:-1 group-title="Общие",ТВ3
-http://tv.ttk.mx:9014
-#EXTINF:-1 group-title="Общие",ТВЦ
-http://tv.ttk.mx:9009
-#EXTINF:-1 group-title="Развлечение",Театр
-http://tv.ttk.mx:9061
-#EXTINF:-1 group-title="Общие",ТНТ
-http://tv.ttk.mx:9018
-#EXTINF:-1 group-title="Общие",ТНТ4
-http://tv.ttk.mx:9098
-#EXTINF:-1 group-title="Детям",Уникум
-http://tv.ttk.mx:9026
-#EXTINF:-1 group-title="Развлечение",Усадьба
-http://tv.ttk.mx:9037
-#EXTINF:-1 group-title="Общие",Че!
-http://tv.ttk.mx:9141
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://tv.ttk.mx:9062
-#EXTINF:-1 group-title="Общие",Ю
-http://tv.ttk.mx:9072
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://tv.ttk.mx:9155
-#EXTINF:-1 group-title="Детям",Ani
-http://tv.ttk.mx:9049
-#EXTINF:-1 group-title="Развлечение",Da Vinci
-http://tv.ttk.mx:9188
-#EXTINF:-1 group-title="Развлечение",Galaxy
-http://tv.ttk.mx:9071
-#EXTINF:-1 group-title="Музыка",RU TV
-http://tv.ttk.mx:9089
-#EXTINF:-1 group-title="Развлечение",Viju Explore
-http://tv.ttk.mx:9184
-#EXTINF:-1 group-title="Развлечение",Viju History
-http://tv.ttk.mx:9185
-#EXTINF:-1 group-title="Развлечение",Viju Nature
-http://tv.ttk.mx:9186
 #EXTINF:-1 group-title="Кино",Viju TV1000
 http://tv.ttk.mx:9181
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
 http://tv.ttk.mx:9183
 #EXTINF:-1 group-title="Кино",Viju TV1000 Action
 http://tv.ttk.mx:9182
-#EXTINF:-1 group-title="Спорт",Viju+ Sport
-http://tv.ttk.mx:9187
+
+#EXTINF:-1 group-title="Общие",Первый Канал
+http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="Общие",Первый HD
+http://tv.ttk.mx:9093
+#EXTINF:-1 group-title="Общие",Россия 1
+http://tv.ttk.mx:9001
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+http://tv.ttk.mx:9075
+#EXTINF:-1 group-title="Общие",Россия К
+http://tv.ttk.mx:9005
+#EXTINF:-1 group-title="Общие",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://tv.ttk.mx:9127
+#EXTINF:-1 group-title="Общие",НТВ Хит
+http://tv.ttk.mx:9173
+#EXTINF:-1 group-title="Общие",Звезда
+http://tv.ttk.mx:9016
+#EXTINF:-1 group-title="Общие",Звезда плюс
+http://tv.ttk.mx:9192
+#EXTINF:-1 group-title="Общие",Рен ТВ
+http://tv.ttk.mx:9010
+#EXTINF:-1 group-title="Общие",ТНТ
+http://tv.ttk.mx:9018
+#EXTINF:-1 group-title="Общие",ТНТ4
+http://tv.ttk.mx:9098
+#EXTINF:-1 group-title="Общие",Домашний
+http://tv.ttk.mx:9013
+#EXTINF:-1 group-title="Общие",СТС
+http://tv.ttk.mx:9012
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Общие",СТС Love
+http://tv.ttk.mx:9104
+#EXTINF:-1 group-title="Общие",Пятница!
+http://tv.ttk.mx:9015
+#EXTINF:-1 group-title="Общие",Суббота!
+http://tv.ttk.mx:9105
+#EXTINF:-1 group-title="Общие",ТВ3
+http://tv.ttk.mx:9014
+#EXTINF:-1 group-title="Общие",ТВЦ
+http://tv.ttk.mx:9009
+#EXTINF:-1 group-title="Общие",Че!
+http://tv.ttk.mx:9141
+#EXTINF:-1 group-title="Общие",МИР
+http://tv.ttk.mx:9017
+#EXTINF:-1 group-title="Общие",МИР HD
+http://tv.ttk.mx:9140
+#EXTINF:-1 group-title="Общие",МИР24
+http://tv.ttk.mx:9025
+#EXTINF:-1 group-title="Общие",Ю
+http://tv.ttk.mx:9072
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт",Матч!
 http://tv.ttk.mx:9002
 #EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
 http://tv.ttk.mx:9107
-#EXTINF:-1 group-title="СПОРТ",Матч! Игра
+#EXTINF:-1 group-title="Спорт",Матч! Игра
 http://tv.ttk.mx:9152
 #EXTINF:-1 tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" group-title="Спорт",Матч! Футбол 1 HD
 http://tv.ttk.mx:9114
@@ -333,3 +121,109 @@ http://tv.ttk.mx:9116
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорт",viju+ Sport
 http://tv.ttk.mx:9187
+
+#EXTINF:-1 group-title="Хобби",Охота и рыбалка
+http://tv.ttk.mx:9034
+#EXTINF:-1 group-title="Хобби",Драйв
+http://tv.ttk.mx:9039
+#EXTINF:-1 group-title="Хобби",Авто 24
+http://tv.ttk.mx:9031
+
+#EXTINF:-1 group-title="Детям",Детский мир
+http://tv.ttk.mx:9063
+#EXTINF:-1 group-title="Детям",Карусель
+http://tv.ttk.mx:9007
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детям",Мульт HD
+http://tv.ttk.mx:9086
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="Детям",Мультимузыка
+http://tv.ttk.mx:9045
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детям",Ani
+http://tv.ttk.mx:9049
+#EXTINF:-1 group-title="Детям",Мама
+http://tv.ttk.mx:9055
+#EXTINF:-1 group-title="Детям",Мульт
+http://tv.ttk.mx:9054
+#EXTINF:-1 group-title="Детям",Уникум
+http://tv.ttk.mx:9026
+#EXTINF:-1 group-title="Детям",Супергерои
+http://tv.ttk.mx:9194
+
+#EXTINF:-1 group-title="Развлечение",Бобёр
+http://tv.ttk.mx:9077
+#EXTINF:-1 group-title="Развлечение",Вопросы и ответы
+http://tv.ttk.mx:9038
+#EXTINF:-1 group-title="Развлечение",Дума ТВ
+http://tv.ttk.mx:9190
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Развлечение",Здоровое ТВ
+http://tv.ttk.mx:9036
+#EXTINF:-1 group-title="Развлечение",Зоопарк
+http://tv.ttk.mx:9029
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Развлечение",История
+http://tv.ttk.mx:9048
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлечение",Калейдоскоп ТВ
+http://tv.ttk.mx:9076
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Развлечение",Моя планета
+http://tv.ttk.mx:9040
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Развлечение",Моя планета HD
+http://tv.ttk.mx:9087
+#EXTINF:-1 group-title="Развлечение",SD REX
+http://tv.ttk.mx:9095
+#EXTINF:-1 group-title="Развлечение",Точка отрыва
+http://tv.ttk.mx:9151
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Развлечение",Усадьба
+http://tv.ttk.mx:9037
+#EXTINF:-1 group-title="Развлечение",Доктор
+http://tv.ttk.mx:9058
+#EXTINF:-1 group-title="Развлечение",Домашние животные
+http://tv.ttk.mx:9035
+#EXTINF:-1 group-title="Развлечение",Загородная жизнь
+http://tv.ttk.mx:9157
+#EXTINF:-1 group-title="Развлечение",Живая Природа HD
+http://tv.ttk.mx:9066
+#EXTINF:-1 group-title="Развлечение",Москва 24
+http://tv.ttk.mx:9097
+#EXTINF:-1 group-title="Развлечение",Москва Доверие
+http://tv.ttk.mx:9091
+#EXTINF:-1 group-title="Развлечение",Наука
+http://tv.ttk.mx:9041
+#EXTINF:-1 group-title="Развлечение",Ностальгия
+http://tv.ttk.mx:9195
+#EXTINF:-1 group-title="Развлечение",Психология
+http://tv.ttk.mx:9033
+#EXTINF:-1 group-title="Развлечение",Ретро
+http://tv.ttk.mx:9032
+#EXTINF:-1 group-title="Развлечение",Сарафан
+http://tv.ttk.mx:9044
+#EXTINF:-1 group-title="Развлечение",Театр
+http://tv.ttk.mx:9061
+#EXTINF:-1 group-title="Развлечение",Т24
+http://tv.ttk.mx:9056
+#EXTINF:-1 group-title="Развлечение",Da Vinci
+http://tv.ttk.mx:9188
+#EXTINF:-1 group-title="Развлечение",Galaxy
+http://tv.ttk.mx:9071
+#EXTINF:-1 group-title="Развлечение",Viju Explore
+http://tv.ttk.mx:9184
+#EXTINF:-1 group-title="Развлечение",Viju History
+http://tv.ttk.mx:9185
+#EXTINF:-1 group-title="Развлечение",Viju Nature
+http://tv.ttk.mx:9186
+
+#EXTINF:-1 group-title="Новости",РБК
+http://tv.ttk.mx:9096
+
+#EXTINF:-1 group-title="Музыка",Восток ТВ
+http://tv.ttk.mx:9064
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://tv.ttk.mx:9023
+#EXTINF:-1 group-title="Музыка",O2TV
+http://tv.ttk.mx:9059
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://tv.ttk.mx:9089
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://tv.ttk.mx:9062
+
+#EXTINF:-1 group-title="Белорусские",БелРос
+http://tv.ttk.mx:9139
+#EXTINF:-1 group-title="Белорусские",Беларусь 24
+http://tv.ttk.mx:9090
