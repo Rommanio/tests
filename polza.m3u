@@ -333,3 +333,52 @@ http://tv.ttk.mx:9116
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорт",viju+ Sport
 http://tv.ttk.mx:9187
+
+#EXTINF:-1,zoo
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1,auto24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1,viasatsport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1,uspeh
+http://158.101.222.193:88/georgia_play.php?id=uspeh
+#EXTINF:-1,tvc
+http://158.101.222.193:88/georgia_play.php?id=tvc
+#EXTINF:-1,russia24
+http://158.101.222.193:88/georgia_play.php?id=russia24
+#EXTINF:-1,rentv
+http://158.101.222.193:88/georgia_play.php?id=rentv
+#EXTINF:-1,musicbox
+http://158.101.222.193:88/georgia_play.php?id=musicbox
+#EXTINF:-1,ort
+http://158.101.222.193:88/georgia_play.php?id=ort
+#EXTINF:-1,nashanovoekino
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1,mir
+http://158.101.222.193:88/georgia_play.php?id=mir
+#EXTINF:-1,m2
+http://158.101.222.193:88/georgia_play.php?id=m2
+#EXTINF:-1,m1
+http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1,laminor
+http://158.101.222.193:88/georgia_play.php?id=laminor
+#EXTINF:-1,ictv
+http://158.101.222.193:88/georgia_play.php?id=ictv
+#EXTINF:-1,eurokino
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF:-1,espressotv
+http://158.101.222.193:88/georgia_play.php?id=espressotv
+#EXTINF:-1,dw
+http://158.101.222.193:88/georgia_play.php?id=dw
+#EXTINF:-1,detsky
+http://158.101.222.193:88/georgia_play.php?id=detsky
+#EXTINF:-1,comedy
+http://158.101.222.193:88/georgia_play.php?id=comedy
+#EXTINF:-1,bmg HD
+http://158.101.222.193:88/georgia_play.php?id=bmg
+#EXTINF:-1,arirang
+http://158.101.222.193:88/georgia_play.php?id=arirang
+#EXTINF:-1,hdlife HD
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+#EXTINF:-1 group-title="Хобби" ,Авто Плюс
+http://158.101.222.193:88/georgia_play.php?id=psihologija
