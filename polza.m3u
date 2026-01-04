@@ -233,15 +233,6 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский бестселлер
-http://195.158.223.132:8008/Russkiy_Bestseller
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский детектив
-http://195.158.223.132:8008/Russkiy_Detektiv
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский роман
-http://195.158.223.132:8008/Russkiy_Roman
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кино тв
-http://195.158.223.132:8009/Kino_TV
-
 #EXTINF:-1 group-title="Таттелеком (VPN)",Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 
@@ -254,21 +245,6 @@ http://95.66.188.74/NasheNovoeKino/mono.m3u8
 
 #EXTINF:-1 group-title="Спорткомплекс",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-
-#EXTINF:-1 group-title="Спорткомплексы",Матч! Футбол 1
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="Спорткомплексы",Матч! Футбол 2
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="Спорткомплексы",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-#EXTINF:-1 group-title="Спорткомплексы",KHL HD
-http://193.25.8.59:8000/khl
-#EXTINF:-1 group-title="Спорткомплексы",Матч! Арена
-http://193.25.8.59:8000/sport1
-#EXTINF:-1 group-title="Спорткомплексы",Viasat Sport
-http://193.25.8.59:8000/viasatsport
-#EXTINF:-1 group-title="Спорткомплексы",FightBox
-http://193.25.8.59:8000/box
 
 #EXTINF:-1 group-title="Спортком 🏆",Футбол
 http://91.207.115.228:5000/c102
