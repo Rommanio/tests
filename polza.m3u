@@ -227,3 +227,285 @@ http://tv.ttk.mx:9062
 http://tv.ttk.mx:9139
 #EXTINF:-1 group-title="Белорусские",Беларусь 24
 http://tv.ttk.mx:9090
+
+#EXTINF:-1 group-title="Cloudflare_Inc",BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский бестселлер
+http://195.158.223.132:8008/Russkiy_Bestseller
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский детектив
+http://195.158.223.132:8008/Russkiy_Detektiv
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский роман
+http://195.158.223.132:8008/Russkiy_Roman
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кино тв
+http://195.158.223.132:8009/Kino_TV
+
+#EXTINF:-1 group-title="Таттелеком (VPN)",Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Bridge TV
+http://95.66.188.74/BridgeTV/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Наше новое кино
+http://95.66.188.74/NasheNovoeKino/mono.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорткомплекс",МАТЧ! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорткомплекс",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт
+http://178.212.71.253:8000/play/81/index.m3u8
+
+#EXTINF:-1 group-title="СпортТТК",viju+ Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="СпортТТК",МАТЧ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="СпортТТК",Матч ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="СпортТТК",Матч! Арена
+http://tv.ttk.mx:9153
+#EXTINF:-1 group-title="СпортТТК",Матч! Страна
+http://tv.ttk.mx:9154
+#EXTINF:-1 group-title="СпортТТК",Матч! Игра
+http://tv.ttk.mx:9152
+#EXTINF:-1 group-title="СпортТТК",МАТЧ! БОЕЦ
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="СпортТТК",МАТЧ! ФУТБОЛ 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="СпортТТК",Матч! футбол 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="СпортТТК",МАТЧ! ФУТБОЛ 2 HD
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="СпортТТК",Матч! Футбол 3
+http://tv.ttk.mx:9112
+#EXTINF:-1 group-title="СпортТТК",МАТЧ! ФУТБОЛ 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="СпортТТК",Футбол
+http://tv.ttk.mx:9065
+
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="Спорт",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="Спорт",FightBox
+http://193.25.8.59:8000/box
+
+#EXTINF:-1 group-title="Спортк", KHL
+http://95.66.188.74/KHL/mono.m3u8
+#EXTINF:-1 group-title="Спортк", Матч! Боец
+http://95.66.188.74/MatchBoec/mono.m3u8
+#EXTINF:-1 group-title="Спортк", Матч! Игра
+http://95.66.188.74/MatchIgra/mono.m3u8
+
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! HD
+http://91.207.115.228:5000/c101
+#EXTINF:-1 group-title="Спортком 🏆",Футбол
+http://91.207.115.228:5000/c102
+#EXTINF:-1 group-title="Спортком 🏆",Матч! Планета
+http://91.207.115.228:5000/c156
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! АРЕНА HD
+http://91.207.115.228:5000/c103
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! ИГРА HD
+http://91.207.115.228:5000/c104
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ ПРЕМЬЕР
+http://91.207.115.228:5000/c105
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! СТРАНА HD
+http://91.207.115.228:5000/c106
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! БОЕЦ
+http://91.207.115.228:5000/c107
+#EXTINF:-1 group-title="Спортком 🏆",KHL
+http://91.207.115.228:5000/c108
+#EXTINF:-1 group-title="Спортком 🏆",Extreme Sports
+http://91.207.115.228:5000/c112
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! ФУТБОЛ 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! ФУТБОЛ 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:-1 group-title="Спортком 🏆",МАТЧ! ФУТБОЛ 3 HD
+http://91.207.115.228:5000/c116
+#EXTINF:-1 group-title="Спортком 🏆",Eurosport 1 HD
+http://91.207.115.228:5000/c153
+#EXTINF:-1 group-title="Спортком 🏆",Eurosport 2 HD
+http://91.207.115.228:5000/c154
+#EXTINF:-1 group-title="Спортком 🏆",viju+ Sport
+http://91.207.115.228:5000/c113
+
+#EXTINF:-1 group-title="Спортко",qazsport
+http://87.76.32.36:8001/qazsport
+#EXTINF:-1 group-title="Спортко",MMA-TV.COM
+http://87.76.32.36:8001/m1global
+#EXTINF:-1 group-title="Спортко",Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1 group-title="Спортко",Матч! Планета
+http://87.76.32.36:8001/matchplaneta
+#EXTINF:-1 group-title="Спортко",Бокс ТВ
+http://87.76.32.36:8001/bokstv
+
+#EXTINF:-1 group-title="Спорткомпл",Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч ТВ
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Футбол 2 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Футбол 3 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut3HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Игра HD
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Боец
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Матч! Страна HD
+http://arbiter.bolshoe.tv/?path=abr1/ntvsport/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",KHL
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",KHL Prime
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Viasat Sport
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",MMA-TV.COM HD
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомпл",Телеканал Футбол
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)"  ,Приключения HD
+http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Travel+Adventure
+http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Охота и рыбалка
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский бестселлер
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский детектив
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский роман
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)"  ,Киномикс
+http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)"  ,Киносерия
+http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,ВРЕМЯ
+http://api.peers.tv/timeshift/time/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)"  ,Music Box Russia
+http://hls.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Старт
+http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский Экстрим
+http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Матч! Боец
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,KHL
+http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc1OTk2OTQsImlhdCI6MTc2NzUxMzI5NCwiY2lkIjo2LCJ1aWQiOjk4NDU5NTUwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.seasB7Q8Ak3nFtrbV47KITxiFjYBG7Qz5fNRl2orjYo&offset=10
+
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV
+http://arbiter.bolshoe.tv/?path=streaming/brigge/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV Русский Хит
+http://arbiter.bolshoe.tv/?path=abr1/rusong_tv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV Classic
+http://arbiter.bolshoe.tv/?path=abr3/bridge_classic/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV Rock
+http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Russian MusicBox
+http://arbiter.bolshoe.tv/?path=streaming/mboxru/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Европа плюс ТВ
+http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjYgNzo1NDo1NCBBTSZoYXNoX3ZhbHVlPW90NFFMWmlTM2lJTnU0a0lFaTNFWXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+
+#EXTINF:-1 group-title="Rutube (VPN)",Волейбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=vUAyISte7g1ZXLfaaXm6fQ&e=2067513344&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=azNN8MsdWZOGlcgQOa1znA&e=2067513311&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=otOgA-XuW9LiZEYYYauusQ&e=2067513340&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=kI2WBWkG-mmLhhdH9VuxDA&e=2067513341&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=Arncn85RChOKj3vpAiv5RQ&e=2067513341&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Trance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=IXDZPOCSxA4UlfXFMFkPdA&e=2067513341&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=If9ag9Q_a5OGWYahEu5KNA&e=2067513304&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=F9b_Ghaws4dMiwK1Txx5Dw&e=2067513304&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=-6hRlx-KnLcf8CcxeehXmg&e=2067513304&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=eWA8_dLV_xx3SKQg1L343g&e=2067513305&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=o68u324UatP06jgBAw8omQ&e=2067513305&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Пятница HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=UBJSS1c9e0ETP1PIyIbJeQ&e=2067513306&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=jGU5gxhUhxlfHZ4-npPXHQ&e=2067513306&scheme=https
+
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Загородный Int
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" ,VHS кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Millenniym UHD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",FAN HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Первый автомобильный
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206355.m3u8
